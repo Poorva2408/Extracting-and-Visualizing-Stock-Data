@@ -8,6 +8,6 @@ Short selling is how you make money if the stock decreases. An investor borrows 
 
 Sometimes short sellers get it wrong; for example, Tesla.  A few years ago, many short sellers targeted Tesla. Then Tesla started becoming profitable, and profits were increasing; thus, the company stock went up. This was based on the companies performance, so the stock should continue to rise, and the short seller should sell the stock.  Recently shorted stocks can increase for reasons that are not based on fundamentals; this is less sustainable. 
 
-Individual investors using the forum on the Reddit online community named WallStreetBets, started buying into shares of GameStop, a video and computer-game retailer losing money. The influx of demand caused GameStop shares to soar.  All this produced billions of dollars in losses for hedge funds who had sold the stock short. [
- 1
-] GameStop's share price should fall eventually, so the Hedge funds should hold on to the short positions. 
+Individual investors using the forum on the Reddit online community named WallStreetBets, started buying into shares of GameStop, a video and computer-game retailer losing money. The influx of demand caused GameStop shares to soar.  All this produced billions of dollars in losses for hedge funds who had sold the stock short. 
+ 
+ GameStop's share price should fall eventually, so the Hedge funds should hold on to the short positions. 
